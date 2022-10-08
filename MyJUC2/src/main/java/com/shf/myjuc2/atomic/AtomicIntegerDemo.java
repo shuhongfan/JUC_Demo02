@@ -1,9 +1,8 @@
-package com.shf.myjuc2;
+package com.shf.myjuc2.atomic;
 
 import lombok.SneakyThrows;
 
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class AtomicIntegerDemo {
